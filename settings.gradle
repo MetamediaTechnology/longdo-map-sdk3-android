@@ -1,0 +1,11 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        maven { url 'https://maven.longdo.com/artifactory/libs-release-public' }
+    }
+}
+rootProject.name = "longdo-map-api3-android"
+include ':app'
