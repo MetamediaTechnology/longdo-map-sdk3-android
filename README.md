@@ -15,7 +15,7 @@ repositories {
 app/build.gradle
 ```
 dependencies {
-    api 'com.longdo.map:api3:1.0.0'
+    api 'com.longdo.map:sdk3:1.1.0'
 }
 ```
 
@@ -31,5 +31,5 @@ Copyright and license
 --------
 Longdo Map API3 copyright 2012-2021 Metamedia Technology Co., Ltd. Demo code released under [Apache 2.0 license](https://github.com/MetamediaTechnology/longdo-map-demo-ios/blob/master/LICENSE).
 
-[1]: https://map.longdo.com/docs/
+[1]: https://map.longdo.com/docs3/
 [2]: http://api.longdo.com/map/doc/rest.php
