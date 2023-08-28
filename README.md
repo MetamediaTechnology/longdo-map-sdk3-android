@@ -15,7 +15,7 @@ repositories {
 app/build.gradle
 ```
 dependencies {
-    api 'com.longdo.map:sdk3:1.1.0'
+    api 'com.longdo.map:sdk3:1.2.0'
 }
 ```
 
