@@ -8,6 +8,10 @@ class App : Application() {
 
     override fun onCreate() {
         super.onCreate()
+        setupWebView()
+    }
+
+    private fun setupWebView() {
         WebView.setWebContentsDebuggingEnabled(BuildConfig.DEBUG)
     }
 
