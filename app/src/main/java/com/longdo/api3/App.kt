@@ -2,6 +2,7 @@ package com.longdo.api3
 
 import android.app.Application
 import android.webkit.WebView
+import com.longdo.map3.BuildConfig
 
 class App : Application() {
 

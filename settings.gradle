@@ -3,7 +3,6 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter()
         maven { url 'https://maven.longdo.com/artifactory/libs-release-public' }
     }
 }
